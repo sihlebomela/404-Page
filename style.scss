@@ -34,7 +34,6 @@ body, html {
     align-items: center;
     width: 100%;
     height: 100%;
-    max-width: 1200px;
 }
 
 .content {
@@ -81,6 +80,8 @@ img {
         color: #ff6d5b;
         font-weight: bold;
     }
-    max-width: 1200px;
+}
 
+body, html , .attribution {
+    max-width: 1200px;
 }
